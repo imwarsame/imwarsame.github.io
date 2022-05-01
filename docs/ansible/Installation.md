@@ -13,3 +13,12 @@ Ansible commands from i.e. your laptop. Preferably install Ansible on a Linux/Un
 ### Requirements
 
 Python 2.x or 3.x
+
+## Font stack
+
+By default, Just the Docs uses a native system font stack for sans-serif fonts:
+
+```scss
+$ sudo easy_install pip
+$ sudo pip install ansible
+```
